@@ -73,8 +73,7 @@
 
 | **Scan Result**                       | **History Log**                          | **Profile**         |   
 |------------------------------------------|------------------------------------------|------------------------------------------|  
-| <img width="304" alt="Rekomendasi scroll" src="https://github.com/user-attachments/assets/f3a5dda8-16d7-45fb-88f3-991fa6e9ba4b" />
- | <img width="304" alt="Your History" src="https://github.com/user-attachments/assets/811cb2c4-7b80-4af0-aa5b-e93b81329d1a" /> | <img width="304" alt="Profile" src="https://github.com/user-attachments/assets/341acaa2-facc-40b7-9740-05e20fdf2ce1" /> |
+| <img width="304" alt="Rekomendasi scroll" src="https://github.com/user-attachments/assets/f3a5dda8-16d7-45fb-88f3-991fa6e9ba4b" /> | <img width="304" alt="Your History" src="https://github.com/user-attachments/assets/811cb2c4-7b80-4af0-aa5b-e93b81329d1a" /> | <img width="304" alt="Profile" src="https://github.com/user-attachments/assets/341acaa2-facc-40b7-9740-05e20fdf2ce1" /> |
 
 ---
 
